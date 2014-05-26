@@ -7,7 +7,7 @@
   "dependencies": {},
   "devDependencies": {},
   "main": [
-    "./angular.audio.js",
+    "./angular.audio.js"
   ],
   "ignore": [
     "*/.*",
