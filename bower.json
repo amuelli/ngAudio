@@ -2,11 +2,11 @@
   "name": "ngAudio",
   "description": "ngAudio",
   "version": "1.0.0",
-  "keywords": [],
   "homepage": "http://danielstern.github.io/ngAudio/",
+  
   "dependencies": {
     "angular": ">1.2.6",
-    "underscore": "~1.6.0",
+    "underscore": "~1.6.0"
   },
   "devDependencies": {},
   "main": [
@@ -14,6 +14,8 @@
   ],
   "ignore": [
     "*/.*",
-    "lib"
+    "lib",
+    "css",
+    "fonts",
   ]
 }
