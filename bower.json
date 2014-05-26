@@ -1,0 +1,15 @@
+{
+  "name": "ngAudio",
+  "description": "ngAudio",
+  "version": "1.0.0",
+  "keywords": [],
+  "homepage": "http://danielstern.github.io/ngAudio/",
+  "dependencies": {},
+  "devDependencies": {},
+  "main": [
+    "./angular.audio.js",
+  ],
+  "ignore": [
+    "*/.*"
+  ]
+}
